@@ -1,3 +1,10 @@
+[![GitHub stars](https://img.shields.io/github/stars/pyzencodes/WordPress-AI-Auto-News-Poster?style=flat-square)](https://github.com/pyzencodes/WordPress-AI-Auto-News-Poster/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/pyzencodes/WordPress-AI-Auto-News-Poster?style=flat-square)](https://github.com/pyzencodes/WordPress-AI-Auto-News-Poster/issues)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python)
+![WordPress](https://img.shields.io/badge/WordPress-REST%20API-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![License](https://img.shields.io/badge/license-Private%20Use-red?style=flat-square)
+
+
 ````markdown
 # 📰 WPHaber — WordPress News Auto Poster
 
@@ -114,3 +121,9 @@ python wphaber.py
 ```
 ::contentReference[oaicite:0]{index=0}
 ```
+
+## License
+
+This project is a private / internal utility.  
+All rights reserved. Redistribution, public hosting, resale, or commercial use is not allowed without explicit written permission from the author.
+
